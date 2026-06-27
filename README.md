@@ -1,1 +1,1 @@
-# precog-task
+# the-ghost-in-the-machine-precog-task

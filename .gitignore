@@ -1,0 +1,21 @@
+# Raw Gutenberg books
+data/raw/
+
+# Model checkpoints & adapters
+models/
+tierC_*/
+*.pt
+*.safetensors
+
+# Downloaded embeddings
+*.gz
+glove*/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# OS
+.DS_Store
