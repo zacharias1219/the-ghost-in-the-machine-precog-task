@@ -1,0 +1,3 @@
+model,test_acc,test_f1,modern_human_%human,modern_human_misclassified_AI,SOP_%human
+distilbert,1.0,1.0,70.0,18,0.0
+roberta,1.0,1.0,86.7,8,0.0

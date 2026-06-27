@@ -1,0 +1,5 @@
+model,probe,human,neutral,styled,%human
+distilbert,probe_modern_human,42,0,18,70.0
+distilbert,probe_sop,0,11,0,0.0
+roberta,probe_modern_human,52,0,8,86.7
+roberta,probe_sop,0,10,1,0.0
