@@ -46,6 +46,12 @@ python -m spacy download en_core_web_sm
 export GROQ_API_KEY=your_key_here
 ```
 
+Or simply add the api key to the .env file and run the following:
+
+```bash
+python -m pip install python-dotenv
+```
+
 ## Requirements
 
 Minimum libraries:
